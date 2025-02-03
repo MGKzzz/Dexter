@@ -5,7 +5,7 @@
 
 ## Sobre o Projeto
 
-O DEXTER é uma aplicação desktop desenvolvida em Python que realiza a detecção e censura automática de pornografia infantil entre outros conteúdos sensíveis em imagens semelhante ao Nudetective da Polícia Federal e Militar. Utilizando a biblioteca [NudeNet](https://github.com/notAI-tech/NudeNet) para identificar nudez, o software processa pastas de imagens e aplica censura quando necessário, preservando a privacidade do usuário e evitando a exposição a conteúdos explícitos.
+O DEXTER é uma aplicação desktop desenvolvida em Python que realiza a detecção e censura automática de pornografia infantil entre outros conteúdos sensíveis em imagens semelhante ao Nudetective da Polícia Federal criado pelo Mateus Polastro. Utilizando a biblioteca [NudeNet](https://github.com/notAI-tech/NudeNet) para identificar nudez, o software processa pastas de imagens e aplica censura quando necessário, preservando a privacidade do usuário e evitando a exposição a conteúdos explícitos.
 
 ### Principais Funcionalidades
 
