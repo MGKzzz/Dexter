@@ -23,7 +23,10 @@ O DEXTER é uma aplicação desktop desenvolvida em Python que realiza a detecç
   - PySide6
   - Pillow
   - NudeNet
-  - (Outras dependências que possam ser necessárias)
+  - OS
+  - Sys
+  - tempfile
+  - traceback
 
 ## Instalação
 
@@ -32,3 +35,4 @@ O DEXTER é uma aplicação desktop desenvolvida em Python que realiza a detecç
    ```bash
    git clone https://github.com/seu_usuario/DEXTER.git
    cd DEXTER
+2. **Execute o código**
