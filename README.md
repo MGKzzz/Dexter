@@ -35,4 +35,21 @@ O DEXTER é uma aplicação desktop desenvolvida em Python que realiza a detecç
    ```bash
    git clone https://github.com/seu_usuario/DEXTER.git
    cd DEXTER
-2. **Execute o código**
+2. **Crie um ambiente virtual (opcional, mas recomendado):**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # No Windows: venv\Scripts\activate
+3. **Instale as bibliotecas:**
+   ```bash
+     pip install nudenet PySide6
+## Configuração
+Ícone da Aplicação:
+Certifique-se de que o caminho do ícone (ICON_PATH) esteja correto. O arquivo punisher1.ico deve estar dentro da pasta do ambiente virtual.
+
+Extensões Suportadas:
+O projeto está configurado para processar imagens com as extensões: PNG, JPG, JPEG, WEBP, BMP, TIFF e TIF.
+
+## Uso:
+Execute a aplicação:
+```bash
+  python src/main.py
